@@ -1,0 +1,49 @@
+body{
+    background: url(../assets/img/bg-pets.jpg);
+    padding: 20px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: 'Ranchers', cursive;
+    color: #fff;
+    font-size: 30px;
+}
+label{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+.table thead th {
+    border-bottom: 2px solid #fff;
+    color: #fff;
+}
+.table td, .table th{
+    color: #fff;
+}
+h3{
+    color: #fff;
+    font-weight: bold;
+}
+.bor-inp{
+    background-color: transparent;
+    color: #fff;
+}
+.bor-inp:focus{
+    background-color: transparent;
+    color: #fff;
+}
+
+.txt-are{
+    background-color: transparent;
+    color: #fff;
+}
+.txt-are:focus{
+    background-color: transparent;
+    color: #fff;
+}
+.select-i{
+    background-color: transparent;
+    color: #fff;
+    border-radius: 0;
+}
